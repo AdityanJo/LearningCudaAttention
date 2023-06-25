@@ -1,0 +1,20 @@
+[I] Loaded config: [dim: 1024, heads: 8, dim_head 64, seq_len 1024, kernel_type 1]
+[I] [Weight inputs] [Attempting load size: 4194304]
+[I] Loaded inputs : [4194304] 
+[I] [Weight query] [Attempting load size: 2097152]
+[I] Loaded query : [2097152] 
+[I] [Weight key] [Attempting load size: 2097152]
+[I] Loaded key : [2097152] 
+[I] [Weight value] [Attempting load size: 2097152]
+[I] Loaded value : [2097152] 
+[I] [Weight out_wt] [Attempting load size: 2097152]
+[I] Loaded out_wt : [2097152] 
+[I] [Weight out_bias] [Attempting load size: 4096]
+[I] Loaded out_bias : [4096] 
+[I] [Weight outputs] [Attempting load size: 4194304]
+[I] Loaded outputs : [4194304] 
+[I] Allocated device memory
+[I] Copied host to device memory
+[I] Kernel took : 23.244667ms
+[I] Mean squared error: 0.000000
+[I] Completed
